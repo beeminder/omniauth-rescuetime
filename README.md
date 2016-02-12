@@ -1,9 +1,9 @@
 = omniauth-rescuetime
 
-Description goes here.
+OmniAuth strategy for [RescueTime](https://www.rescuetime.com/)
 
 == Contributing to omniauth-rescuetime
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
 * Fork the project.
@@ -16,4 +16,3 @@ Description goes here.
 
 Copyright (c) 2016 Andy Brett. See LICENSE.txt for
 further details.
-
