@@ -10,17 +10,6 @@ module OmniAuth
         :authorize_url => 'https://www.rescuetime.com/oauth/authorize',
         :response_type => 'code'
       }
-
-      uid {
-        @raw_info['username']
-      }
-
-      info do
-        {
-          'id' => @raw_info['username'],
-          'nickname' => @raw_info['username'],
-        }
-      end
     end
   end
 end
