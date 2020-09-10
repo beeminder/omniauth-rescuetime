@@ -1,3 +1,5 @@
+require 'date'
+
 Gem::Specification.new do |gem|
   gem.name    = 'omniauth-rescuetime'
   gem.version = 1.0
